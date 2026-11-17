@@ -4,7 +4,7 @@ A 3D physics obstacle-course game made in Unity 6 for the Game Development mid-t
  
 Roll the ball across the platforms, avoid the hazards, collect all the coins and reach the green finish line before you lose your 3 lives.
  
-**Group:** <GROUP2>   (CADT)
+**Group2:** <GROUP2>   (CADT)
  
 ## Links
  
